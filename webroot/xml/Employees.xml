@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Employees>
+  <title>Employees</title>
+  <totalRows>3</totalRows>
+  <rows>
+    <record>
+      <id>1</id>
+      <name>Emp 1</name>
+      <team_name>Technical Team</team_name>
+    </record>
+    <record>
+      <id>2</id>
+      <name>Emp 2</name>
+      <team_name>Technical Team</team_name>
+    </record>
+    <record>
+      <id>3</id>
+      <name>Emp 3</name>
+      <team_name>Technical Team</team_name>
+    </record>
+  </rows>
+</Employees>
